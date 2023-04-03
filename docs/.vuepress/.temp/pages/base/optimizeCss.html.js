@@ -94,7 +94,15 @@ export const data = {
       ]
     }
   ],
-  "git": {},
+  "git": {
+    "contributors": [
+      {
+        "name": "吴胜业",
+        "email": "betterwusy@163.com",
+        "commits": 1
+      }
+    ]
+  },
   "filePathRelative": "base/optimizeCss.md"
 }
 

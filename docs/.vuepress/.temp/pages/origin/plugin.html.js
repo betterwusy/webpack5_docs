@@ -112,7 +112,15 @@ export const data = {
       "children": []
     }
   ],
-  "git": {},
+  "git": {
+    "contributors": [
+      {
+        "name": "吴胜业",
+        "email": "betterwusy@163.com",
+        "commits": 1
+      }
+    ]
+  },
   "filePathRelative": "origin/plugin.md"
 }
 

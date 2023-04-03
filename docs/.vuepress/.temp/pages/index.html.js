@@ -37,7 +37,15 @@ export const data = {
   },
   "excerpt": "",
   "headers": [],
-  "git": {},
+  "git": {
+    "contributors": [
+      {
+        "name": "吴胜业",
+        "email": "betterwusy@163.com",
+        "commits": 1
+      }
+    ]
+  },
   "filePathRelative": "README.md"
 }
 
