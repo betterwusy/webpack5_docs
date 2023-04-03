@@ -14,7 +14,7 @@
 
 ## 🌐 地址
 
-- [http://xxpromise.gitee.io/webpack5-docs](http://xxpromise.gitee.io/webpack5-docs)
+*未定*
 
 ## 📦️ 启动方式
 
