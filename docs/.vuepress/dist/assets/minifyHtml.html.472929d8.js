@@ -1,0 +1,1 @@
+const t={key:"v-50d92e02",path:"/base/minifyHtml.html",title:"html \u538B\u7F29",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{contributors:[{name:"\u5434\u80DC\u4E1A",email:"betterwusy@163.com",commits:1}]},filePathRelative:"base/minifyHtml.md"};export{t as data};
